@@ -1,3 +1,3 @@
 # KenzieFlix
-Profile Page: NetFlix Clone
-In this project, I cloned the netflix user selection interface... An activity we did at Kenzie Academy
+
+Apenas um clone da pagina de login do NetFlix que desenvolvemos no primeiro modulo de HTML e CSS do curso de desenvolvimento FullStack da Kenzie Academy Brasil 
